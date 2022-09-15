@@ -1,0 +1,85 @@
+/****************TAG SELECTORS****************/
+/* unvisited link */
+a:link {
+
+  color: #EDF5E1;
+}
+
+a:visited {
+  color: #EDF5E1;
+}
+
+
+a {
+  text-align: center;
+}
+
+body {
+  background-color: #05386B;
+}
+
+h1 {
+  text-align: center;
+  color: #EDF5E1
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EDF5E1;
+  border-width: 10px;
+  width: 5%;
+}
+
+img {
+  width: 10%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  text-align: center;
+  font-size: 20px;
+  color: #EDF5E1
+}
+
+/****************CLASS SELECTORS****************/
+.mountains {
+  width: 15%;
+  display: block;
+  border-radius: 100%;
+  border-style: dotted;
+  border-width: 20px;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin: auto;
+  color: #EDF5E1;
+}
+
+.hobbies {
+  text-align: center;
+  font-size: 30px;
+  color: #EDF5E1;
+  font-style: oblique;
+  border-style: none;
+
+  width: 20%;
+  margin-left: auto;
+  margin-right:auto;
+}
+
+.homepage {
+  text-align: center;
+  font-size: 30px;
+
+  font-style: oblique;
+  border-style: none;
+  color: #EDF5E1;
+  width: 20%;
+  margin-left: auto;
+  margin-right:auto;
+}
+
+/****************ID SELECTORS****************/
